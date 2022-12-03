@@ -1,1 +1,1 @@
-# Positional-Tracking-of-internationa-space-station
+# Positional-Tracking-of-international-space-station
